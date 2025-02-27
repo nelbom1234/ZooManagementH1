@@ -1,0 +1,15 @@
+/home/nelbom1234/Documents/H1/ZooManagement/bin/Debug/net8.0/ZooManagement
+/home/nelbom1234/Documents/H1/ZooManagement/bin/Debug/net8.0/ZooManagement.deps.json
+/home/nelbom1234/Documents/H1/ZooManagement/bin/Debug/net8.0/ZooManagement.runtimeconfig.json
+/home/nelbom1234/Documents/H1/ZooManagement/bin/Debug/net8.0/ZooManagement.dll
+/home/nelbom1234/Documents/H1/ZooManagement/bin/Debug/net8.0/ZooManagement.pdb
+/home/nelbom1234/Documents/H1/ZooManagement/obj/Debug/net8.0/ZooManagement.GeneratedMSBuildEditorConfig.editorconfig
+/home/nelbom1234/Documents/H1/ZooManagement/obj/Debug/net8.0/ZooManagement.AssemblyInfoInputs.cache
+/home/nelbom1234/Documents/H1/ZooManagement/obj/Debug/net8.0/ZooManagement.AssemblyInfo.cs
+/home/nelbom1234/Documents/H1/ZooManagement/obj/Debug/net8.0/ZooManagement.csproj.CoreCompileInputs.cache
+/home/nelbom1234/Documents/H1/ZooManagement/obj/Debug/net8.0/ZooManagement.sourcelink.json
+/home/nelbom1234/Documents/H1/ZooManagement/obj/Debug/net8.0/ZooManagement.dll
+/home/nelbom1234/Documents/H1/ZooManagement/obj/Debug/net8.0/refint/ZooManagement.dll
+/home/nelbom1234/Documents/H1/ZooManagement/obj/Debug/net8.0/ZooManagement.pdb
+/home/nelbom1234/Documents/H1/ZooManagement/obj/Debug/net8.0/ZooManagement.genruntimeconfig.cache
+/home/nelbom1234/Documents/H1/ZooManagement/obj/Debug/net8.0/ref/ZooManagement.dll
